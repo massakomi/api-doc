@@ -1,0 +1,27 @@
+.block__red {
+    color: red;
+}
+
+.block__main {
+    cursor: pointer;
+}
+
+.block__info {
+    padding: 10px;
+    background: #ccc;
+}
+.block__info .desc {
+    font-size: 90%
+}
+
+.group {
+    margin-bottom:20px
+}
+
+.block__hidden {
+    display: none;
+}
+
+.methodName {
+    color: #ccc
+}

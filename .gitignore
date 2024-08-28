@@ -1,0 +1,3 @@
+/.osp
+/.idea
+/docker/nginx/logs/*.log
